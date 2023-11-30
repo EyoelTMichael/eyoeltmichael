@@ -1,0 +1,10 @@
+baseURL = 'https://eyoeltmichael.github.io/'
+languageCode = 'en-us'
+title = 'Eyoel TMichael'
+theme = 'hugo-book'
+
+[languages]
+[languages.en]
+  languageName = 'English'
+  contentDir = 'content.en'
+  weight = 1
